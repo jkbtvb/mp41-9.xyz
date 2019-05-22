@@ -1,7 +1,7 @@
 
 <div align="center"><font color=blue>建议手机访问，体验更好！</font><font color=red><b>收藏本站，方便下次访问！</b></font></div>
 <br>
-<center>
+<div align="center">
 <a href="https://www.mp41.xyz" rel="external nofollow noopener" target="_blank"><img src="https://i.loli.net/2019/05/22/5ce4ffc248efa22013.png" alt="1.png" title="1.png" /></a><br>
 <a href="https://www.mp42.xyz" rel="external nofollow noopener" target="_blank"><img src="https://i.loli.net/2019/05/22/5ce4ffc25c43e51541.png" alt="2.png" title="2.png" /></a><br>
 <a href="https://www.mp43.xyz" rel="external nofollow noopener" target="_blank"><img src="https://i.loli.net/2019/05/22/5ce4ffc25c19d87864.png" alt="3.png" title="3.png" /></a><br>
@@ -11,9 +11,5 @@
 <a href="https://www.mp47.xyz" rel="external nofollow noopener" target="_blank"><img src="https://i.loli.net/2019/05/22/5ce4ffc265cda24801.png" alt="7.png" title="7.png" /></a><br>
 <a href="https://www.mp48.xyz" rel="external nofollow noopener" target="_blank"><img src="https://i.loli.net/2019/05/22/5ce4ffc265c6f62299.png" alt="8.png" title="8.png" /></a><br>
 <a href="https://www.mp49.xyz" rel="external nofollow noopener" target="_blank"><img src="https://i.loli.net/2019/05/22/5ce4ffc275df618062.png" alt="9.png" title="9.png" /></a><br>
-</center>
-<br>
-<center>
-↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
-</center>
+</div>
 
