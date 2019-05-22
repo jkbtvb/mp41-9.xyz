@@ -1,8 +1,5 @@
 
-<center><h1>高潮电影</h1>永久域名：<br><a target="_blank" href="https://www.gaochao.xyz" alt="高潮电影" title="高潮电影">http://www.gaochao.xyz</a><br></center><br>
-<center>域名就是高潮的拼音：www + gaochao + xyz（小姨子）</center>
-<br>
-<center><font color=blue>建议手机访问，体验更好！</font><font color=red><b>收藏本站，方便下次访问！</b></font></center>
+<div align="center"><font color=blue>建议手机访问，体验更好！</font><font color=red><b>收藏本站，方便下次访问！</b></font></div>
 <br>
 <center>
 <a href="https://www.mp41.xyz" rel="external nofollow noopener" target="_blank"><img src="https://i.loli.net/2019/05/22/5ce4ffc248efa22013.png" alt="1.png" title="1.png" /></a><br>
