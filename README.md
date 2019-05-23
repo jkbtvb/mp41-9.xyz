@@ -2,7 +2,7 @@
  <div align="center">
   <h1>高潮电影</h1>
  </div>
- <div align="center"><font color=blue>建议手机访问，体验更好！</font>
+<div align="center"><font color=blue>建议手机访问，体验更好！</font>
 <br>
 <font color=red><b>收藏本站，方便下次访问！</b></font></div>
 <br>
