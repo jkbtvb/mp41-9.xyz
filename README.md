@@ -3,7 +3,7 @@
   <h1>高潮电影</h1>
  </div>
 <div align="center"><font color=blue>建议手机访问，体验更好！</font>
-<font color="red"><b>收藏本页，方便下次访问！</b></font></div>
+<font color="red"><b>收藏本页</b>，方便下次访问！</font></div>
 <br>
 <div align="center">
 <a href="https://www.mp41.xyz" rel="external nofollow noopener" target="_blank"><img src="https://i.loli.net/2019/05/22/5ce4ffc248efa22013.png" alt="1.png" title="1.png" /></a><br>
