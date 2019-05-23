@@ -1,7 +1,6 @@
  <div align="center">
   <h1>高潮电影</h1>
  </div>
- <div align="center"><img src="https://i.loli.net/2019/05/23/5ce64153084de90374.png" alt="ad.png" title="ad.png" /></font>
 <div align="center">建议手机访问，体验更好！
 <b>收藏本页</b>，方便下次访问！<b>点击下方网址进入！</b></div>
 <br>
@@ -16,4 +15,5 @@
 <a href="https://www.mp48.xyz" rel="external nofollow noopener" target="_blank"><img src="https://i.loli.net/2019/05/22/5ce4ffc265c6f62299.png" alt="8.png" title="8.png" /></a><br>
 <a href="https://www.mp49.xyz" rel="external nofollow noopener" target="_blank"><img src="https://i.loli.net/2019/05/22/5ce4ffc275df618062.png" alt="9.png" title="9.png" /></a><br>
 </div>
+ <div align="center"><img src="https://i.loli.net/2019/05/23/5ce64153084de90374.png" alt="ad.png" title="ad.png" /></div>
 
